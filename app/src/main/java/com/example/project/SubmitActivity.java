@@ -153,10 +153,11 @@ public class SubmitActivity extends AppCompatActivity {
                    mLoading.setVisibility(View.GONE);
                    failurePopupWindow.showAtLocation(failurePopupView, Gravity.CENTER, 0, 0);
                }
-               else
+               else{
                    Toast.makeText(SubmitActivity.this,  "Something is wrong", Toast.LENGTH_LONG).show();
                 mLoading.setVisibility(View.GONE);
                 failurePopupWindow.showAtLocation(failurePopupView, Gravity.CENTER, 0, 0);
+           }
            }
 
 
