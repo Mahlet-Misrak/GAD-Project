@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">LEADERBOARD</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Learning Leaders</string>
+    <string name="second_fragment_label">Skill IQ Leaders</string>
+    <string name="learning">Learning Leaders</string>
+    <string name="skill">Skill IQ Leaders</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="learner_name">Learner Name</string>
+    <string name="learner_info">%1$d learning hours,%2$s.</string>
+    <string name="learner_image">Learner Badge</string>
+    <string name="skill_info">%1$d skill IQ Score, %2$s.</string>
+    <string name="skill_name">Top IQ Names</string>
+    <string name="skill_image">Skill IQ Badge</string>
+    <string name="submit">Submit</string>
+    <string name="submission_title">Project Submission</string>
+    <string name="gad_title">Google Africa Developer Scholarship</string>
+    <string name="launch_image">Launch Image</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email Address</string>
+    <string name="github">Project on GITHUB (link)</string>
+    <string name="success_image">Success Image</string>
+    <string name="logo">GAD logo</string>
+    <string name="back">Back Button</string>
+    <string name="gradient_line">Gradient line</string>
+    <string name="yes">Yes</string>
+    <string name="sure">Are you sure?</string>
+    <string name="close_btn">Close</string>
+    <string name="submission_successful">Submission Successful</string>
+    <string name="submission_failure">Submission not Successful</string>
+</resources>
